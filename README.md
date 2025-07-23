@@ -12,7 +12,7 @@ This repository contains the completed tasks for my **CANTILEVER Python Programm
 I have completed the following projects as part of my internship deliverables:
 
 1. [Contact Book](./contactbook) — A simple contact management application.
-2. [Personal Finance Manager](./personalfinance) — A personal finance tracker with embedded data visualizations.
+2. [Personal Finance Manager](./persnal_finance) — A personal finance tracker with embedded data visualizations.
 
 ---
 
@@ -48,8 +48,8 @@ Edit
 
 | Project | Link |
 |----------------|-----------------------------|
-| Contact Book | [Open Folder](./ContactBook) |
-| Personal Finance | [Open Folder](./PersonalFinance) |
+| Contact Book | [Open Folder](./contactbook) |
+| Personal Finance | [Open Folder](./persnal_finance) |
 
 ---
 
