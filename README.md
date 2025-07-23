@@ -2,7 +2,6 @@
 
 **Intern Name:** MOHD ADEEB  
 **Internship Domain:** Python Programming  
-**Intern ID:** 9CHD3B9BEQ  
 **Internship Duration:** 1 Month (July 2025 - August 2025)
 
 ---
