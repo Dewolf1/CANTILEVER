@@ -11,8 +11,8 @@
 This repository contains the completed tasks for my **CANTILEVER Python Programming Internship**.  
 I have completed the following projects as part of my internship deliverables:
 
-1. [Contact Book](./ContactBook) — A simple contact management application.
-2. [Personal Finance Manager](./PersonalFinance) — A personal finance tracker with embedded data visualizations.
+1. [Contact Book](./contactbook) — A simple contact management application.
+2. [Personal Finance Manager](./personalfinance) — A personal finance tracker with embedded data visualizations.
 
 ---
 
